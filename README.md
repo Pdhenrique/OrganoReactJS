@@ -5,8 +5,7 @@ Curso alura: [React-desenvolvendo-javascript](https://cursos.alura.com.br/course
 
 ## Tecnologias Utilizadas
 
-- React
-- JavaScript
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 
 ## Descrição
